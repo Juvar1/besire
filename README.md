@@ -4,7 +4,7 @@ This DIY radio receiver works with VHF/HF/MF/LF frequency range with following m
 
 https://www.adafruit.com/product/1743
 
-User can freely change all key parameters with touchscreen by touching a buttons. Available options are volume, frequency, band, bandwidth and frequency stepping. It has also standby-mode which is activated by first minimizing volume to zero and then touching a off-button which comes visible in place of volume down button. Receiver turns back on when user taps anywhere on the touchscreen. There is also a channel seek up/down command which is activated by long pressing frequency up or down-button accordingly.
+User can freely change all key parameters with touchscreen by touching a buttons. Available options are volume, frequency, band, modulation, bandwidth and frequency stepping. It has also standby-mode which is activated by first minimizing volume to zero and then touching a off-button which comes visible in place of volume down button. Receiver turns back on when user taps anywhere on the touchscreen. There is also a channel seek up/down command which is activated by long pressing frequency up or down-button accordingly.
 
 Before using SSB feature user must upload SSB-patch into external EEPROM chip. Instructions for that are in link below.
 
