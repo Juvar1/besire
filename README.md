@@ -10,4 +10,6 @@ Before using SSB feature user must upload SSB-patch into external EEPROM chip. I
 
 https://github.com/pu2clr/SI4735
 
+Printed circuit board and battery holder fits in to Hammond 1599HBAT enclosure.
+
 This receiver design and it source code is completely open source with GNU GPL license. You can freely use it commercially but limiting only by it's third party libraries licenses.
